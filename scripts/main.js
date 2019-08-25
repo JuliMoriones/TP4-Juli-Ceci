@@ -22,3 +22,5 @@ fetch(`https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}`)
             popularNode.appendChild(li)
         });
     })
+
+
